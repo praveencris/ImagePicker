@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImagePickerApp</string>
+    <string name="file_provider_name">name_file_provider</string>
+    <string name="select_capture_image">Select Image</string>
 </resources>
